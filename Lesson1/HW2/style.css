@@ -1,0 +1,75 @@
+body {
+	background-color: #FDFDFD;
+	margin: 30px 0 0 70px;
+}
+
+/*    Таблица №1    */
+
+.tab1 {
+    border-collapse: collapse;
+    border: 2px solid white;
+    background-color: #f9f9f9;
+}
+
+caption {
+	text-align: left;
+}
+
+.tab1 td {
+	width: 60px;
+	padding: 9px;
+	border: 2px solid white;
+}
+
+.row1 > td {
+	background-color: #38AABD;
+	color: white;
+	text-align: center;
+}
+
+.row2 > td {
+	background-color: #89BD38;
+}
+
+.row3 {
+	background-color: #89BD38;
+}
+
+.row4 {
+	background-color: #BEBF82;
+}
+
+.row5 {
+	background-color: #E0DCDD;
+}
+
+
+/*    Таблица №2    */
+
+.tab2 {
+    border: 2px solid black;
+    background-color: #FBF9F9;
+    margin-top: 30px;
+}
+
+.tab2 td {
+	border: 1px solid black;
+	text-align: center;
+}
+
+.tab2 th {
+	border: 1px solid black;
+	text-align: center;
+}
+
+.cel1 {
+	background-color: #F9FFE9;
+}
+
+.cel2 {
+	background-color: #9AE8C1;
+}
+
+.cel3 {
+	background-color: #B8A6DA;
+}
