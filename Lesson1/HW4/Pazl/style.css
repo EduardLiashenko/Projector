@@ -1,0 +1,38 @@
+body {
+	margin: 40px;
+}
+
+.pazl {
+	position: relative;
+	width: 500px;
+	height: 375px;
+}
+
+.pazl img {
+	position: absolute;
+}
+
+.pazl-item-1 {
+	left: 96px;
+	top: 0;
+}
+
+.pazl-item-2 {
+	right: 345px;
+	top: 0;
+}
+
+.pazl-item-3 {
+	left: 118px;
+	top: 118px;
+}
+
+.pazl-item-4 {
+	left: 241px;
+	top: 0;
+}
+
+.pazl-item-5 {
+	right: 0;
+	bottom: 0;
+}
