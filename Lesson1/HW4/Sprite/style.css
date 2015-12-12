@@ -4,7 +4,7 @@ body {
 	background-size: cover;
 }
 
-.Item {
+.item {
 	width: 125px;
 	height: 125px;
 	margin: 20px auto;
@@ -12,18 +12,18 @@ body {
 	cursor: pointer;
 }
 
-.Item1        { background-position: 0 0; }
-.Item1:hover  { background-position: -140px 0; }
-.Item1:active { background-position: -280px 0; }
+.item1        { background-position: 0 0; }
+.item1:hover  { background-position: -140px 0; }
+.item1:active { background-position: -280px 0; }
 
-.Item2        { background-position: 0 -140px; }
-.Item2:hover  { background-position: -140px -140px; }
-.Item2:active { background-position: -280px -140px; }
+.item2        { background-position: 0 -140px; }
+.item2:hover  { background-position: -140px -140px; }
+.item2:active { background-position: -280px -140px; }
 
-.Item3 		  { background-position: 0 -280px; }
-.Item3:hover  { background-position: -140px -280px; }
-.Item3:active { background-position: -280px -280px; }
+.item3 		  { background-position: 0 -280px; }
+.item3:hover  { background-position: -140px -280px; }
+.item3:active { background-position: -280px -280px; }
 
-.Item4        { background-position: 0 -420px; }
-.Item4:hover  { background-position: -140px -420px; }
-.Item4:active { background-position: -280px -420px; }
+.item4        { background-position: 0 -420px; }
+.item4:hover  { background-position: -140px -420px; }
+.item4:active { background-position: -280px -420px; }
