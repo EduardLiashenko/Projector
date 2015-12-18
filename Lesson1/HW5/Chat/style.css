@@ -1,0 +1,33 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+}                                                   
+
+ul {
+    list-style-type: none;
+    margin: 40px;
+    padding-top: 25px;
+}
+
+.chat-item {
+    min-height: 250px;
+    margin-bottom: 20px;
+}
+
+.chat-avatar {
+    float: left;
+    height: 250px;
+    margin-right: 35px;
+    
+}
+
+.chat-text {
+    font-size: 25px;
+}
+
+.is-right {
+    float: right;
+    margin-right: 0;
+    margin-left: 10px;
+}
+
