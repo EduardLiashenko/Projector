@@ -743,6 +743,9 @@ ul.top-social-icons { padding: 0; }
 
 /*----start-media-quries-for-1024px-Laptops-----*/
 @media (max-width:1024px){
+    .welcome-note {
+        margin: 0 auto;
+    }
 
     .welcome-note h1 {
         text-align: center;
