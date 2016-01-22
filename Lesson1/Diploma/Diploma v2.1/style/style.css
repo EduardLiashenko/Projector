@@ -1024,19 +1024,19 @@ ul.top-social-icons { padding: 0; }
         color: whitesmoke;
     }    
 
-    .newsletter-left {
+        .newsletter-left {
         width: 100%;
     }  
     
-    .newsletter-right {
+        .newsletter-right {
         width: 100%;
     }
 
-    .client-desc h4 {
+        .client-desc h4 {
         margin: 20px 0px 5px 10px;
     }
 
-    .client-desc p {
+        .client-desc p {
         margin-left: 10px;
     }
 }
