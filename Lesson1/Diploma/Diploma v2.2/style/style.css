@@ -750,8 +750,9 @@ ul.top-social-icons { padding: 0; }
 
     .welcome-note-left {
         width: 100%;
-        float: left;
-        margin-top: -5em;
+        float: none;
+        display: block;
+        margin: 0 auto;
     }
 
     .welcome-note-left p {
